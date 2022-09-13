@@ -23,7 +23,6 @@ This project is to demonstrate our ability to use our new React skills to create
  Step 1: Clone this repository. <br>
  Step 2: Navigate to the repository at the root folder. <br>
  Step 3: Run "npm start" command. <br>
- Step 4: Run "npm run build" command. <br>
       
 ## Contribution
 
