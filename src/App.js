@@ -8,6 +8,7 @@ import ContactForm from './components/Contact';
 
 
 function App() {
+  
   const [categories] = useState([
     {
       name: 'portfolio',
