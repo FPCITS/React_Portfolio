@@ -5,7 +5,6 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import ContactForm from './components/Contact';
-import
 
 
 function App() {
